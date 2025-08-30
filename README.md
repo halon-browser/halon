@@ -1,7 +1,7 @@
-# Complete Firefox Build Instructions
+# Complete Halon Build Instructions
 
 ## Repository Information
-The official Mozilla Firefox repository is at `https://github.com/mozilla-firefox/firefox`. This is the active development repository where all current commits are made.
+The official Mozilla Firefox repository is at `https://github.com/mozilla-firefox/firefox`.
 
 ## System Requirements
 
